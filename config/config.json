@@ -1,0 +1,7 @@
+{
+  "client_id": "YOUR_CLIENT_ID",
+  "team_id": "YOUR_TEAM_ID",
+  "key_id": "YOUR_KEY_ID",
+  "redirect_uri": "https://example.com/auth",
+  "scope": "name email"
+}

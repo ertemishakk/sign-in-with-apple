@@ -1,7 +1,7 @@
 {
-  "name": "sercorp",
+  "name": "demo",
   "version": "1.0.0",
-  "description": "infrastructure services",
+  "description": "sign in with apple",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
